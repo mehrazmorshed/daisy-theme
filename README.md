@@ -1,0 +1,2 @@
+# daisy-theme
+WordPress Theme
